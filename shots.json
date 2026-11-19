@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","view":"Checklist with progress, filters and spoiler toggle","viewport":{"height":800,"width":1280}},{"file":"2-guide-detail.jpg","view":"Trophy guide and sources open beside the checklist","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","view":"Five-stage roadmap to the platinum","viewport":{"height":800,"width":1280}},{"file":"4-missables.jpg","view":"Missables list with the spoiler setting at work","viewport":{"height":800,"width":1280}}]
